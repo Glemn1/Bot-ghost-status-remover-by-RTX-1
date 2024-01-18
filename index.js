@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching you."];
+const statusMessages = ["Watching over InkImport"];
 
 
 let currentIndex = 0;
